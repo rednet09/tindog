@@ -1,2 +1,2 @@
 TinDog Starting Files
-fully responsive webisite designed with bootstrap, html, css 
+fully responsive webisite designed with bootstrap, html, css, javascript 
